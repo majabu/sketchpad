@@ -1,5 +1,5 @@
-var rows = 8;
-var columns = 8;
+var rows = prompt('how many squares in a grid?');
+var columns = rows;
 var $row = $("<div />", {
 	class: 'row'
 });
