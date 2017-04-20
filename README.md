@@ -1,2 +1,2 @@
 # sketchpad
-sketchpad (js/jquery)
+simple web sketchpad (js/jquery)
